@@ -1,1 +1,27 @@
+button {
+
+background-color: ghostwhite;
+
+
+
+
+}
+
+
+button:hover  {
+
+    background-color: cornflowerblue;
+    transition: 2s;
+}
+
+
+ #button {background-color: ghostwhite; transition-property: 2s;}  /*ghostwhite beggining state  */
+ #button:hover {background-color: cornflowerblue; } /*cornflowerblue hover  */
+
+
+
+
+
+
+
 
